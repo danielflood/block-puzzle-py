@@ -33,7 +33,6 @@ pip install -e .[dev]
 - Left Click: Select and drag pieces
 - Right Click: Rotate selected piece
 - Reset Button: Start over
-- ESC: Quit game
 
 ## Project Structure
 
